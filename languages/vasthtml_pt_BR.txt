@@ -1,0 +1,5 @@
+Language: Português Brasil (pt_BR)
+Author: Guilherme Veras (www.guilhermeveras.com.br)
+Version: 1.0
+Release Date: 2013/12/19
+
